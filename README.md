@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi, I'm Othávio (Begosio) 
 
+I am a second-year high school student studying **Systems Development**.
+
+---
+
+### About me
+
+* 🇧🇷 I'm from **São Paulo, Brazil**.
+* 💻 I'm currently learning **C#, Java, Python, and SQL**.
+* I already know: **C**.
+* Reach me at othavioatv@gmail.com.
 <!--
 **Begosio/Begosio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
