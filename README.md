@@ -7,7 +7,7 @@ I am a second-year high school student studying **Systems Development**.
 ### About me
 
 * 🇧🇷 I'm from **São Paulo, Brazil**.
-* 💻 I'm currently learning **C#, Java, Python, and SQL**.
+* I'm currently learning **C#, Java, Python, and SQL**.
 * I already know: **C**.
 * Reach me at othavioatv@gmail.com.
 <!--
