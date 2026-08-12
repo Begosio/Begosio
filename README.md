@@ -1,4 +1,4 @@
-## Hi, I'm Othávio (aka Begosio)🇧🇷 
+## Hi, I'm Othávio (aka Begosio) 🇧🇷 
 
 I am a second-year high school student studying **Systems Development**.
 
